@@ -1,0 +1,12 @@
+127.0.0.1 - - [07/Jan/2021:19:49:33 +0530] "GET / HTTP/1.1" 404 1074
+127.0.0.1 - - [07/Jan/2021:19:49:35 +0530] "GET /spring-rest-demo/ HTTP/1.1" 200 180
+127.0.0.1 - - [07/Jan/2021:19:49:50 +0530] "GET /spring-rest-demo/list/students HTTP/1.1" 404 1047
+127.0.0.1 - - [07/Jan/2021:19:50:25 +0530] "GET /spring-rest-demo/api/students HTTP/1.1" 200 137
+0:0:0:0:0:0:0:1 - - [07/Jan/2021:19:50:39 +0530] "GET /spring-rest-demo/list/students HTTP/1.1" 404 1047
+0:0:0:0:0:0:0:1 - - [07/Jan/2021:19:50:40 +0530] "GET /favicon.ico HTTP/1.1" 404 1085
+0:0:0:0:0:0:0:1 - - [07/Jan/2021:19:50:45 +0530] "GET /spring-rest-demo/api/students HTTP/1.1" 200 137
+0:0:0:0:0:0:0:1 - - [07/Jan/2021:19:53:45 +0530] "GET /spring-rest-demo/api/students HTTP/1.1" 200 137
+127.0.0.1 - - [07/Jan/2021:19:55:14 +0530] "GET /spring-rest-demo/ HTTP/1.1" 200 257
+127.0.0.1 - - [07/Jan/2021:19:55:19 +0530] "GET /spring-rest-demo/api/students HTTP/1.1" 200 137
+0:0:0:0:0:0:0:1 - - [07/Jan/2021:19:55:33 +0530] "GET /spring-rest-demo/ HTTP/1.1" 200 257
+0:0:0:0:0:0:0:1 - - [07/Jan/2021:19:55:35 +0530] "GET /spring-rest-demo/api/students HTTP/1.1" 200 137

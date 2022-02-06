@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;hb-eager-vs-lazy-demo&apos; to &apos;hibernate-eager-vs-lazy-demo&apos;&#x0D;&#x0A;- Original element: &apos;hb-eager-vs-lazy-demo&apos;&#x0D;&#x0A;- Renamed element: &apos;hb-eager-vs-lazy-demo&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;hb-eager-vs-lazy-demo&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=hb-eager-vs-lazy-demo" name="hibernate-eager-vs-lazy-demo" references="true" stamp="1608901634151" version="1.0"/>
+</session>

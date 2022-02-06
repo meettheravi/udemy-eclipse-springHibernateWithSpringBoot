@@ -1,0 +1,14 @@
+127.0.0.1 - - [04/Dec/2020:21:07:12 +0530] "GET / HTTP/1.1" 404 1074
+127.0.0.1 - - [04/Dec/2020:21:07:14 +0530] "GET /spring-mvc-demo/ HTTP/1.1" 200 656
+127.0.0.1 - - [04/Dec/2020:21:07:14 +0530] "GET /spring-mvc-demo/resources/js/simple-test.js HTTP/1.1" 304 -
+127.0.0.1 - - [04/Dec/2020:21:07:14 +0530] "GET /spring-mvc-demo/resources/css/my-test.css HTTP/1.1" 304 -
+127.0.0.1 - - [04/Dec/2020:21:07:14 +0530] "GET /spring-mvc-demo/resources/images/spring-logo.png HTTP/1.1" 304 -
+127.0.0.1 - - [04/Dec/2020:21:07:19 +0530] "GET /spring-mvc-demo/customer/showForm HTTP/1.1" 200 839
+127.0.0.1 - - [04/Dec/2020:21:07:26 +0530] "POST /spring-mvc-demo/customer/processForm HTTP/1.1" 200 1034
+127.0.0.1 - - [04/Dec/2020:21:07:40 +0530] "POST /spring-mvc-demo/customer/processForm HTTP/1.1" 200 916
+127.0.0.1 - - [04/Dec/2020:21:08:37 +0530] "POST /spring-mvc-demo/customer/processForm HTTP/1.1" 200 916
+127.0.0.1 - - [04/Dec/2020:21:08:39 +0530] "POST /spring-mvc-demo/customer/processForm HTTP/1.1" 200 916
+127.0.0.1 - - [04/Dec/2020:21:08:43 +0530] "POST /spring-mvc-demo/customer/processForm HTTP/1.1" 200 916
+127.0.0.1 - - [04/Dec/2020:21:09:01 +0530] "POST /spring-mvc-demo/customer/processForm HTTP/1.1" 200 917
+127.0.0.1 - - [04/Dec/2020:21:09:09 +0530] "POST /spring-mvc-demo/customer/processForm HTTP/1.1" 200 918
+127.0.0.1 - - [04/Dec/2020:21:09:15 +0530] "POST /spring-mvc-demo/customer/processForm HTTP/1.1" 200 247
